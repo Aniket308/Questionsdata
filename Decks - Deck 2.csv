@@ -1,0 +1,23 @@
+Question_Index,Question
+1,What is the difference between MLP and DNN?
+2,What's an adam optimizer? How does it differ from SGD?
+3,How do you determine which activation function is the most appropriate?
+4,Does a deeper neural network always equate to higher accuracy? Is there a way to quantify the trade-offs?
+5,"Since there are so many hyperparameters, network architectures to choose from, is there any good methodologies to get the best besides brute force?"
+6,What did you want to be when you were a kid?
+7,How do I determine how many hidden layers to use? If not ReLU then what else?
+8,"Regarding last week's exercise on selecting the best classifier, would like to ask if classifier algos are appropriate for continuous outputs where there are simply too many classes as outputs?"
+9,Is there any ways or software for doing data organizing?
+10,Is derivatives for activation function used mainly to understand the machine learning process? Or what is the significance of looking at derivative?
+11,What is an example of XOR classification problem? How do we know when this problem exist?
+12,What does activation really mean in this case?
+13,Does step(z) mean step jump at z?
+14,Why does the step function used jump from -1 to +1? (Instead of 0 to +1)
+15,How do the weights get adjusted during training to get the desired outcome?
+16,"Given a dataset, how do we guess or determine which classifier or model to use?"
+17,"In a DNN, is there a way to find out the number of hidden layers? And the function at each layer?"
+18,Is Deep learning considered unexplainable AI? How do we convince end-users to trust the results?
+19,"When the value of different model is almost the same, is it safe to just pick one of the model? With different random seeds, the value will change. There is a chance the best model will change"
+20,How do we know when to use multi-layer perceptions given our real life used cases?
+21,What is LTU?
+22,What is the difference between MLP and ANN?

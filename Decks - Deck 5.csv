@@ -1,0 +1,48 @@
+Question_Index,Question
+1,What are triggers in AWS Lambda? Must they be restricted to AWS Services?
+2,In which case should we use Jupyter Notebook or AWS Lambda to update database?
+3,Is there a dress code or attire for the presentation?
+4,What's the format of the Written Test 2? MCQ? Open-ended?
+5,How does running a function on AWS or Firebase cloud perform differently than just having a js Function on my React App
+6,How do you manage stress? What do you do? Especially in such a hectic week
+7,Why is there no playtime in the API?
+8,Must we submit our Github?
+9,Can you bring us souvenirs back from your honeymoon?
+10,Do we have access to Internet for the quiz? 
+11,Do you like teaching this module?
+12,What online resources can I use to study for this module?
+13,Are there going to be some more specific instruction for the group project webapp?
+14,Must the app created by us school related? Or it can be about anything?
+15,Why do salmon taste good?
+16,Where is my last teammate?
+17,"Can the nature of our main data source be one that is current, instead of just employing historical data?"
+18,Are CCAs important?
+19,How are we going to get users to adopt our app? No matter how sophisticated it is?
+20,What is your career aspiration?
+21,What are the expectations for the final presentation and prototype?
+22,"What exactly is the flow of the project again? Getting student feedback, deciding the exact questions we want to answer in the app, prototyping, etc."
+23,What is your actual job scope at company as a position?
+24,What am I supposed to know for this module?
+25,Whats tested for the written test 2?
+26,Is the User achievements API down?
+27,Any hints on how many stakeholders & who they are for the presentation?
+28,When will the results for our documentation be released?
+29,Will how well our application works have an impact on our grade?
+30,When will we get all the files for analyzing? What files are we missing?
+31,How many questions will be there in the written test II?
+32,What would be the scope for written quiz II?
+33,We've learnt a number of technologies that work with React over the semester. What further tools would you recommend we learn if we want to do more react development?
+34,Where to find resources for learning good software engineering practices?
+35,Why is React so difficult to use?
+36,Could you share about your favourite intern?
+37,Will the achievements data keep changing?
+38,Is it ok if we only focus on codecombat user achievements? Is there a need to analyze video and other assignments?
+39,Can you tell us the contents that we need to study for written test 2?
+40,Would you mark our web app more on the layout and beauty of the interfaces or the type of charts or functions we created?
+41,"If we cannot finish coding our app for presentation, are we allowed to present the prototype?"
+42,Can we design the UI with other libraries like Bootstrap instead of using different components from React.js?
+43,How to create user roles in React? How to implement permissions for user roles?
+44,"How does the separate individual component and group component work for the documentation and presentation, does everyone get the same score provided no one complains?"
+45,"Since the API returns all the data existing at a point in time, is it feasible to leave it as a lambda function compared to a python notebook given that speed is important at the client side?"
+46,Could you please briefly explain how redux works i.e. store.js in code sandbox project?
+47,What happens when a man falls into a black hole?
